@@ -114,6 +114,11 @@ class OnboardingScreen extends StatelessWidget {
 
 ```
 
+## Screenshots
+
+![App Screenshot](assets/images/Screenshot_1708965771.png)
+![App Screenshot](assets/images/Screenshot_1708965781.png)
+
 ## Contributing
 
 We welcome contributions to this package! Please feel free to fork the repository and submit your pull requests..

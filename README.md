@@ -118,9 +118,7 @@ class OnboardingScreen extends StatelessWidget {
 
 We welcome contributions to this package! Please feel free to fork the repository and submit your pull requests..
 
-## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Acknowledgements
 
